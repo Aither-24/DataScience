@@ -18,7 +18,7 @@ from IPython.core.display import display, HTML
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Load dataset dan Read
-file_path = "/content/data_science_salaries_cleaned.csv"
+file_path = "data_science_salaries_cleaned.csv"
 data = pd.read_csv(file_path)
 
 """# **DATA PREPROCESSING**"""

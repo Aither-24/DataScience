@@ -148,7 +148,3 @@ plt.grid(True)
 
 # Menampilkan plot
 plt.show()
-
-"""# Model Deployment"""
-
-!jupyter nbconvert --to script DataScienceSalary2024.ipynb
